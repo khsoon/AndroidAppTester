@@ -1,2 +1,2 @@
 # AndroidAppTester
-bin
+only bin files
